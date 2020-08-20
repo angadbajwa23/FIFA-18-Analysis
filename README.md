@@ -7,3 +7,5 @@ With the given data in fifa team analysis excel sheet build up the most profitab
 All you are given is a dataset. Nothing less. Nothing more. Let your imagination run free.
 Report any interesting trends,patterns,insights you find. Create stunning visualisations,
 animations to support your arguments.
+
+[!img][/fifa.png]
