@@ -8,4 +8,4 @@ All you are given is a dataset. Nothing less. Nothing more. Let your imagination
 Report any interesting trends,patterns,insights you find. Create stunning visualisations,
 animations to support your arguments.
 
-![img][./fifa.png]
+![img](./fifa.png)
